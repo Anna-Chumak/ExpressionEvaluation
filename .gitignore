@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+/.vs
+/Debug
+/STL/Debug
+/STL/Expression.cpp
+/STL/Source.cpp
+/STL/STL.vcxproj.filters
+/STL/STL.vcxproj
+/STL/STL.vcxproj.user
